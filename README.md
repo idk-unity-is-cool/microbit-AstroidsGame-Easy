@@ -1,3 +1,4 @@
+Find the Hard Mode for this game [here](https://github.com/idk-unity-is-cool/microbit-astroidsgame-hard/)
 
 > Open this page at [https://idk-unity-is-cool.github.io/microbit-astroidsgame-easy/](https://idk-unity-is-cool.github.io/microbit-astroidsgame-easy/)
 
